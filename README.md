@@ -18,4 +18,5 @@ Being a former Torontonian, I had an amazing life in Toronto as an international
 
 #### References:
 [Medium blog: Ready to move to Toronto?](https://rehamfadul.medium.com/ready-to-move-to-toronto-a6b743dec505)
+
 [Toronto Airbnb Open Data](http://insideairbnb.com/get-the-data.html)
