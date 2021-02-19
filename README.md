@@ -16,7 +16,7 @@ Being a former Torontonian, I had an amazing life in Toronto as an international
 
 
 #### Files Descriptions:
-1. TO_airbnb_analysis.ipynb : a jupyter notebook illustrating the data analysis of the project.
+1. TO_airbnb.ipynb : a jupyter notebook illustrating the data analysis of the project.
 2. TO_detailed_listings_data : CSV file contating a dataset provided by Airbnb with all the basic information.
 
 #### Analysis Observations:
